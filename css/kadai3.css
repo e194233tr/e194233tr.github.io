@@ -1,0 +1,18 @@
+
+h1{
+    color:greenyellow;
+    text-align: center;
+    background-color: azure;
+}
+
+h2{
+    color:skyblue;
+    text-align: center;
+    background-color: palevioletred;
+}
+
+body{
+    background-image: url("../images/04.png");
+    background-repeat: repeat;
+   background-attachment: fixed;
+}
