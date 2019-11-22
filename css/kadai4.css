@@ -1,0 +1,29 @@
+h1.hoby{
+    color:skyblue;
+    text-align: center;
+    background-color: palevioletred;
+}
+
+h2.reptile{
+    color:darkseagreen;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+h2.apua{
+    color:orangered;
+    text-align: center;
+    background-color: deepskyblue;
+}
+
+h1.link{
+    color:black;
+    text-align: center;
+    background-color: lightyellow;
+}
+
+body{
+    background-image: url("../images/04.png");
+    background-repeat: repeat;
+   background-attachment: fixed;
+}
